@@ -13,20 +13,16 @@
 
 </p>
 
-### Hi there, I'm Igor - aka Frontend Developer 👋
+### Hi there, I'm Sanjay  👋
 
-- 🔭 I’m currently working on chattik app
-- 🌱 I’m currently learning TypeScript
+- 📖 I’m currently working on [Fake News detection project](https://github.com/sanapplegates/datascienceprojects/tree/master/NLP/Fake%20News)
+- 📖 I’m currently learning data science from Springboard Indida bootcamp,[Datacamp](https://www.datacamp.org),[LinkedIn Learning](https://www.linkedin.com/learning/)
 - 👯 I’m looking to collaborate to open source projects
-- 🥅 2021 Goals: Try not to die
-
-
-
-- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
-- 🤹🏽 Fields I enjoy the most include 📈  Probability and Statistics, 🎛 Natural Language Processing, 🖼 Computer Vision, 📊 Data Science
-- 📈 I’m fluent in C/C++, Python, Julia and JavaScript
-- 💬 I am fast to respond and would love to grow my network.
+- 🥅 2021 Goals: I am beginner in Kaggle, so looking forward to more active particpations in kaggle 
+- 🤹🏽 Subjects I mostly working : 📈  Probability and Statistics, 🎛 Natural Language Processing, 🖼 Machine Learning, 📊 Data Science
 - 📫 How to reach me: <sanapplegates@gmail.com>;
+- 💬 I am fast to respond and would love to grow my network.
+
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=sanapplegates&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
