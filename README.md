@@ -1,7 +1,7 @@
 
 ### 
 ### Hi there, I'm Sanjay  
-<p align="left"> <img   src="https://komarev.com/ghpvc/?username=sanapplegates" alt="adi10hero" /> </p>
+<p align="left"> <img   src="https://komarev.com/ghpvc/?username=sanapplegates" alt="sanapplegates" /> </p>
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/sanapplegates">
