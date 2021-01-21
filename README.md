@@ -1,6 +1,6 @@
 
 ### 
-### ### Hi there, I'm Sanjay  
+### Hi there, I'm Sanjay  
 
 <p align="center">
 <br/>
