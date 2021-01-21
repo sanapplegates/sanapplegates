@@ -13,7 +13,12 @@
 
 </p>
 
-I'm an **Undergraduate Student 👨🏽‍💼 [@IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/) in India.** I am a huge admirer of Artificial Intelligence and have recently finished writing my first **[Research Paper](https://arxiv.org/abs/2010.05243) in Natural Language Processing.** I strongly advocate my fellow classmates to get into Open Source 📢. Besides academics, I'm the Lead Guitarist 🎸 of a Progressive Rock band and have done a couple of concerts here and there.
+### Hi there, I'm Igor - aka Frontend Developer 👋
+
+- 🔭 I’m currently working on chattik app
+- 🌱 I’m currently learning TypeScript
+- 👯 I’m looking to collaborate to open source projects
+- 🥅 2021 Goals: Try not to die
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/0370865dc28ad806626731f7f7dbdf09/tenor.gif?itemid=16756828" />
@@ -33,7 +38,7 @@ I'm an **Undergraduate Student 👨🏽‍💼 [@IIIT Gwalior](https://www.iiitm
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
@@ -48,3 +53,35 @@ I'm an **Undergraduate Student 👨🏽‍💼 [@IIIT Gwalior](https://www.iiitm
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanapplegates&show_icons=true&hide_border=true">
 </p>
+
+
+
+
+
+### Languages and Tools:
+
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+### Github Stats:
+
+<a href="https://github.com/sanapplegates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirpinev&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/sanapplegates">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirpinev&show_icons=true&theme=light&line_height=27" alt="Igor's github stats"/>
+</a>
+<a href="https://github.com/kirpinev/sanapplegates">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirpinev&repo=chatik&theme=light" />
+</a>
