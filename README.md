@@ -2,6 +2,7 @@
 ### 
 ### Hi there, I'm Sanjay  
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=sanapplegates" alt="sanapplegates" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/sanapplegates">
