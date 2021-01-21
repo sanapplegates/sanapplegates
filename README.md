@@ -51,5 +51,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanapplegates&show_icons=true&theme=light&line_height=27" alt="Sanjay's github stats"/>
 </a>
 <a href="https://github.com/sanapplegates">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanapplegates&repo=chatik&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanapplegates&repo=sanapplegates&theme=light" />
 </a>
