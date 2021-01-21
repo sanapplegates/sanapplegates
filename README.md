@@ -13,7 +13,7 @@
 
 </p>
 
-### Hi there, I'm Sanjay  👋
+### Hi there, I'm Sanjay  
 
 - 📖 I’m currently working on [Fake News detection project](https://github.com/sanapplegates/datascienceprojects/tree/master/NLP/Fake%20News)
 - 📖 I’m currently learning data science from Springboard Indida bootcamp,[Datacamp](https://www.datacamp.org),[LinkedIn Learning](https://www.linkedin.com/learning/) & online resources
@@ -21,7 +21,7 @@
 - 🥅 2021 Goals: I am beginner in Kaggle, so looking forward to more active particpations in kaggle 
 - 🤹🏽 Subjects I mostly working : 📈  Probability and Statistics, 🎛 Natural Language Processing, 🖼 Machine Learning, 📊 Data Science
 - 📫 How to reach me: <sanapplegates@gmail.com>;
-- 💬 I am fast to respond and would love to grow my network.
+-
 - <b>NOTE- I AM ACTIVELY looking FOR INTERNSHIPS AND JOB OPPURTUNITIES IN DOMAIN OF DATA SCIENCE, MACHINE LEARNING AND NLP . Previously worked with Accenture India(Associate Software Engineer) and Qxf2 Services(QA Intern)</b>
 
 <p align="center">
