@@ -55,5 +55,5 @@ I'm an **Undergraduate Student 👨🏽‍💼 [@IIIT Gwalior](https://www.iiitm
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DebadityaPal&show_icons=true&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanapplegates&show_icons=true&hide_border=true">
 </p>
