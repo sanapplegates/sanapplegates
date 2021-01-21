@@ -1,6 +1,6 @@
 
 ### 
-### Hello 👋, I'm Debaditya!
+### Hello 👋, I'm Sanjay!
 
 <p align="center">
 <br/>
@@ -32,10 +32,10 @@ I'm an **Undergraduate Student 👨🏽‍💼 [@IIIT Gwalior](https://www.iiitm
 - 🤹🏽 Fields I enjoy the most include 📈  Probability and Statistics, 🎛 Natural Language Processing, 🖼 Computer Vision, 📊 Data Science
 - 📈 I’m fluent in C/C++, Python, Julia and JavaScript
 - 💬 I am fast to respond and would love to grow my network.
-- 📫 How to reach me: <debaditya.pal6@gmail.com>;
+- 📫 How to reach me: <sanapplegates@gmail.com>;
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=DebadityaPal&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=sanapplegates&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <!--END_SECTION:waka-->
