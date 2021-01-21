@@ -1,6 +1,6 @@
 
 ### 
-### Hi I'm Sanjay!
+### ### Hi there, I'm Sanjay  
 
 <p align="center">
 <br/>
@@ -13,7 +13,7 @@
 
 </p>
 
-### Hi there, I'm Sanjay  
+
 
 - 📖 I’m currently working on [Fake News detection project](https://github.com/sanapplegates/datascienceprojects/tree/master/NLP/Fake%20News)
 - 📖 I’m currently learning data science from Springboard India bootcamp,[Datacamp](https://www.datacamp.org),[LinkedIn Learning](https://www.linkedin.com/learning/) & online resources
