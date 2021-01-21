@@ -19,7 +19,7 @@
 - 📖 I’m currently learning data science from Springboard India bootcamp,[Datacamp](https://www.datacamp.org),[LinkedIn Learning](https://www.linkedin.com/learning/) & online resources
 - 👯 I’m looking to collaborate to open source projects
 - 🥅 2021 Goals: I am beginner in Kaggle, so looking forward to more active participations in kaggle 
-- 🤹🏽 Subjects I mostly working : 📈  Probability and Statistics, 🎛 Natural Language Processing, 🖼 Machine Learning, 📊 Data Science
+- 🤹🏽 Subjects I mostly working :   Probability and Statistics, Natural Language Processing,  Machine Learning &  Data Science
 - 📫 How to reach me: <sanapplegates@gmail.com>;
 -
 - <b>NOTE- I AM ACTIVELY APPLYING FOR INTERNSHIPS AND JOB OPPURTUNITIES IN DOMAIN OF DATA SCIENCE, MACHINE LEARNING AND NLP . Previously worked with Accenture India(Associate Software Engineer) and Qxf2 Services(QA Intern)</b>
@@ -30,7 +30,7 @@
 
 
 **Languages and Tools:**  
-
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
 <code><img height="50" src="https://cdn.algorithmia.com/developers/images/language_logos/pytorch.png"></code> 
 <code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
