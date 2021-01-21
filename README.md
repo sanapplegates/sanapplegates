@@ -48,8 +48,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanapplegates&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/sanapplegates">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanapplegates&show_icons=true&theme=light&line_height=27" alt="Igor's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanapplegates&show_icons=true&theme=light&line_height=27" alt="Sanjay's github stats"/>
 </a>
-<a href="https://github.com/kirpinev/sanapplegates">
+<a href="https://github.com/sanapplegates">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanapplegates&repo=chatik&theme=light" />
 </a>
