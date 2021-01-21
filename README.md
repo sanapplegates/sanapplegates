@@ -40,19 +40,17 @@
 <code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanapplegates&show_icons=true&hide_border=true">
-</p>
+
  
 
 ### Github Stats:
 
 <a href="https://github.com/sanapplegates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirpinev&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanapplegates&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/sanapplegates">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirpinev&show_icons=true&theme=light&line_height=27" alt="Igor's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanapplegates&show_icons=true&theme=light&line_height=27" alt="Igor's github stats"/>
 </a>
 <a href="https://github.com/kirpinev/sanapplegates">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirpinev&repo=chatik&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanapplegates&repo=chatik&theme=light" />
 </a>
