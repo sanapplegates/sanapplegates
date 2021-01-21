@@ -4,11 +4,8 @@
 
 <p align="center">
 <br/>
-<a href="https://orcid.org/0000-0002-7451-3066">
-  <img alt="Debaditya's Orcid" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1200px-ORCID_iD.svg.png" />
-</a>
-<a href="https://www.linkedin.com/in/DebadityaPal">
-  <img alt="Debaditya's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+<a href="https://www.linkedin.com/in/sanapplegates">
+  <img alt="Sanjay's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.facebook.com/debaditya.pal.9">
   <img alt="Debaditya's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
