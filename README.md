@@ -33,6 +33,7 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
 
+**Profile Stats:**  
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=sanapplegates&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
