@@ -24,9 +24,6 @@
 
 - <b>NOTE- I AM ACTIVELY APPLYING FOR INTERNSHIPS AND JOB OPPURTUNITIES IN DOMAIN OF DATA SCIENCE, MACHINE LEARNING AND NLP . Previously worked with Accenture India(Associate Software Engineer) and Qxf2 Services(QA Intern)</b> 
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=sanapplegates&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 
 
 **Languages and Tools:**  
@@ -35,6 +32,9 @@
 <code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=sanapplegates&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
  
 
