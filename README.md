@@ -20,9 +20,7 @@
 - 👯 I’m looking to collaborate to open source projects
 - 🥅 2021 Goals: Try not to die
 
-<p align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/images/0370865dc28ad806626731f7f7dbdf09/tenor.gif?itemid=16756828" />
-</p>
+
 
 - 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
 - 🤹🏽 Fields I enjoy the most include 📈  Probability and Statistics, 🎛 Natural Language Processing, 🖼 Computer Vision, 📊 Data Science
