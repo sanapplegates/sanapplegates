@@ -36,9 +36,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://cdn.algorithmia.com/developers/images/language_logos/pytorch.png"></code>
-<code><img height="50" src="https://cdn.algorithmia.com/developers/images/language_logos/pytorch.png"></code>
-<code><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"> 
+<code><img height="50" src="https://cdn.algorithmia.com/developers/images/language_logos/pytorch.png"></code> 
 <code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
