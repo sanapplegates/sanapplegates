@@ -22,7 +22,7 @@
 - 🤹🏽 Subjects I mostly working : 📈  Probability and Statistics, 🎛 Natural Language Processing, 🖼 Machine Learning, 📊 Data Science
 - 📫 How to reach me: <sanapplegates@gmail.com>;
 - 💬 I am fast to respond and would love to grow my network.
-
+-<b>NOTE- I AM ACTIVELY FOR INTERNSHIPS AND JOBS IN DOMAIN OF DATA SCIENCE, MACHINE LEARNING AND NLP . Previously worked with Accenture India(Associate Software Engineer) and Qxf2 Services(QA Intern)</b>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=sanapplegates&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
