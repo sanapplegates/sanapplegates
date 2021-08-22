@@ -22,7 +22,7 @@
 - 🤹🏽 Subjects I mostly working :   Probability and Statistics, Natural Language Processing,  Machine Learning &  Data Science
 - 📫 How to reach me: <sanapplegates@gmail.com>
 
-- <b>CUrrently working as Data Engineering with Azure platform and Power BI at Bridgei2i . Previously worked with Accenture India(Associate Software Engineer) and Qxf2 Services(QA Intern)</b> 
+- <b>Currently working as Data Engineering with Azure platform and Power BI at Bridgei2i . Previously worked with Accenture India(Associate Software Engineer) and Qxf2 Services(QA Intern)</b> 
 
 
 
