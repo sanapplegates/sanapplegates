@@ -16,14 +16,13 @@
 
 
 
-- 📖 I’m currently working on [Fake News detection project](https://github.com/sanapplegates/datascienceprojects/tree/master/NLP/Fake%20News)
-- 📖 I’m currently learning data science from Springboard India bootcamp,[Datacamp](https://www.datacamp.org),[LinkedIn Learning](https://www.linkedin.com/learning/) & online resources
+- 📖 I’m currently learning data science/engineering/Machine learning  from online mostly from [Datacamp](https://www.datacamp.org),[LinkedIn Learning](https://www.linkedin.com/learning/) & online resources
 - 👯 I’m looking to collaborate to open source projects,recently started working with [activeloop.ai](https://github.com/activeloopai/Hub) as a contributer.
 - 🥅 2021 Goals: I am beginner in Kaggle, so looking forward to more active participations in kaggle 
 - 🤹🏽 Subjects I mostly working :   Probability and Statistics, Natural Language Processing,  Machine Learning &  Data Science
 - 📫 How to reach me: <sanapplegates@gmail.com>
 
-- <b>NOTE- I AM ACTIVELY APPLYING FOR INTERNSHIPS AND JOB OPPURTUNITIES IN DOMAIN OF DATA SCIENCE, MACHINE LEARNING AND NLP . Previously worked with Accenture India(Associate Software Engineer) and Qxf2 Services(QA Intern)</b> 
+- <b>CUrrently working as Data Engineering with Azure platform and Power BI at Bridgei2i . Previously worked with Accenture India(Associate Software Engineer) and Qxf2 Services(QA Intern)</b> 
 
 
 
