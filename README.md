@@ -18,7 +18,7 @@
 
 - 📖 I’m currently learning data science/engineering/Machine learning  from online mostly from [Datacamp](https://www.datacamp.org),[LinkedIn Learning](https://www.linkedin.com/learning/) & online resources
 - 👯 I’m looking to collaborate to open source projects.
-- 🥅 2021 Goals: I am beginner in Kaggle, so looking forward to more active participations in kaggle 
+- 🥅 2022 Goals: I am beginner in Kaggle, so looking forward to more active participations in kaggle 
 - 🤹🏽 Subjects I mostly working :   Probability and Statistics, Natural Language Processing,  Machine Learning &  Data Science
 - 📫 How to reach me: <sanapplegates@gmail.com>
 
